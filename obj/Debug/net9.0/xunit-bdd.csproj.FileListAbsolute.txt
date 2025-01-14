@@ -1,0 +1,12 @@
+/workspaces/xunit/bin/Debug/net9.0/xunit-bdd.deps.json
+/workspaces/xunit/bin/Debug/net9.0/xunit-bdd.dll
+/workspaces/xunit/bin/Debug/net9.0/xunit-bdd.pdb
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.csproj.AssemblyReference.cache
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.AssemblyInfoInputs.cache
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.AssemblyInfo.cs
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.csproj.CoreCompileInputs.cache
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.dll
+/workspaces/xunit/obj/Debug/net9.0/refint/xunit-bdd.dll
+/workspaces/xunit/obj/Debug/net9.0/xunit-bdd.pdb
+/workspaces/xunit/obj/Debug/net9.0/ref/xunit-bdd.dll
